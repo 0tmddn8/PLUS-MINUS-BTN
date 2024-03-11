@@ -1,0 +1,28 @@
+.container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+html,
+body {
+  margin: 0px;
+}
+
+.wrapper {
+  text-align: center;
+}
+
+.num {
+  font-size: 100px;
+  margin-bottom: 100px;
+}
+
+.plus,
+.minus {
+  font-size: 50px;
+  width: 100px;
+  height: 100px;
+}
